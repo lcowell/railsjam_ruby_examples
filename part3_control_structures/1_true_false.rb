@@ -1,5 +1,3 @@
-# 2
-
 def truth_tester(v)
   if v
     puts "#{v} is true"

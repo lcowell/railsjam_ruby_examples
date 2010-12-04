@@ -1,6 +1,4 @@
-# 1
-
-# you've already seen the main wait to do comments in ruby.
+# you've already seen the main way to do comments in ruby.
 # more comments
 
 =begin

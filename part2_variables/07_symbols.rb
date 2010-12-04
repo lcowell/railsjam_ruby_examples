@@ -1,5 +1,3 @@
-# 2
-
 # #used in hashes
 # h = {:a => 1,"a" => 2}
 # 

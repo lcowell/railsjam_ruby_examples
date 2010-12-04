@@ -1,5 +1,3 @@
-# 4
-
 #don't need to statically declare the type
 # 
 # a = "hello"

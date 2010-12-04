@@ -1,5 +1,3 @@
-# 3
-
 # h = Hash.new
 # h = {}
 # puts h[:a]

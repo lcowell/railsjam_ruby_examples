@@ -1,5 +1,3 @@
-# 5
-
 stuff = %w(cat dog cow moose lion leopard)
 
 #select
@@ -20,5 +18,3 @@ stuff = %w(cat dog cow moose lion leopard)
 # puts stuff.inject("Here are the animals that I own:") {|acc, animal| acc << animal + " "}
 # 
 # puts stuff.inject([1,3,9]) {|acc, animal| acc << animal.length}
-# 
-# puts stuff.map{|a| a.reverse}.map {|animal| animal.capitalize + "!"}.map(&:reverse)

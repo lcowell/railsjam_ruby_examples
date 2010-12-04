@@ -18,3 +18,4 @@ end
 # b.hello 
 # puts Bar.new.hello
 # puts Baz.new.hello
+# super

@@ -1,5 +1,3 @@
-# 3
-
 # class Foo
 #   def bar
 #     @result ||= expensive_operation

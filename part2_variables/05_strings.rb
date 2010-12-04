@@ -1,5 +1,3 @@
-# 4
-
 # h = "Hello,World"
 # h = "(This can be \"useful\""
 # h = %Q(This can be "useful")
@@ -16,5 +14,3 @@
 # puts i
 # puts "======="
 # puts i.chomp
-# puts "======="
-# puts i.chomp.upcase

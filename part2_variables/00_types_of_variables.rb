@@ -1,5 +1,3 @@
-# 4
-
 # #locals
 # class Foo
 #   def initialize
